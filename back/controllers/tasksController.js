@@ -317,11 +317,9 @@ const geocodeFilter = (results) => {
         "establishment",
         "food",
         "point_of_interest",
-
         'natural_feature',                  // 자연 지형
         'place',                  // 장소
         'landmark',                  // 랜드마크
-        
         'hospital',                  // 병원
         'school',                  // 학교
         'college',                  // 대학
