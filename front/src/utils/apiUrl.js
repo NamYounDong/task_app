@@ -1,4 +1,5 @@
-const DOMAIN = 'http://localhost:8000';
+// const DOMAIN = 'http://localhost:8000';
+const DOMAIN = 'https://backend.dm-nyd.shop';
 const GET_TASKS_API_URL = `${DOMAIN}/getTasks`;
 const GET_TASK_API_URL = `${DOMAIN}/getTask`;
 const INSERT_TASK_API_URL = `${DOMAIN}/insertTask`;
